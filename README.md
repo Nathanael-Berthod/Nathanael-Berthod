@@ -24,25 +24,17 @@ work — and how they break. Serious about my work, curious by nature.
 
 ## Tech Stack
 
+<div align="center">
+
 **Networks & Systems**
 
-<p>
-  <img src="https://img.shields.io/badge/Cisco-06402b?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/VoIP%20·%20Asterisk-06402b?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk">
-  <img src="https://img.shields.io/badge/Linux-06402b?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Wireshark-06402b?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-</p>
+<img src="https://skillicons.dev/icons?i=cisco,linux,bash&theme=dark" alt="Networks & systems" />
 
 **Development**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-06402b?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-06402b?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-06402b?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Symfony-06402b?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
-  <img src="https://img.shields.io/badge/HTML5-06402b?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-06402b?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,php,symfony,html,css,mysql&theme=dark" alt="Development" />
+
+</div>
 
 <br>
 
@@ -69,11 +61,13 @@ open_to:
 
 ## Contact
 
-<p>
-  <a href="mailto:berthod.nathanael@gmail.com">
-    <img src="https://img.shields.io/badge/berthod.nathanael@gmail.com-06402b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://instagram.com/nath.btd">
-    <img src="https://img.shields.io/badge/@nath.btd-06402b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:berthod.nathanael@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-06402b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/nath.btd">
+  <img src="https://img.shields.io/badge/Instagram-06402b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
