@@ -1,10 +1,10 @@
 <div align="center">
 
-# Nathanael Berthod
+# Hi, I'm Nathanael 👋
 
-**Networking & Telecommunications Student**
+**Networking & Telecommunications student**
 
-`Network infrastructure` &nbsp;·&nbsp; `Cybersecurity` &nbsp;·&nbsp; `OSINT` &nbsp;·&nbsp; `Web development`
+I'm learning how networks, systems and the web work — one project at a time.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nathanael-Berthod&label=Profile%20views&color=06402b&style=flat-square)
 &nbsp;
@@ -14,15 +14,15 @@
 
 <br>
 
-## About
+## 🎓 About me
 
-Networking & Telecommunications student interested in network infrastructure, system
-administration, cybersecurity, OSINT and web development. I like understanding how systems
-work — and how they break. Serious about my work, curious by nature.
+I'm a Networking & Telecommunications student, curious about how systems work — and how
+they break. I'm into network infrastructure, system administration, cybersecurity and OSINT,
+and I also build websites on the side. Still learning a lot, and enjoying every bit of it.
 
 <br>
 
-## Tech Stack
+## 🛠️ What I'm working with
 
 <div align="center">
 
@@ -38,28 +38,30 @@ work — and how they break. Serious about my work, curious by nature.
 
 <br>
 
-## Currently
+## 🌱 Currently learning
 
 ```yaml
-learning:
-  - Network administration — routing & switching
+networking:
+  - Routing & switching
   - IP telephony with Asterisk
-  - Linux systems and network services
-  - Cybersecurity fundamentals — network security & forensics
-  - OSINT — reconnaissance and open-source intelligence
-
-practicing:
   - Traffic analysis with Wireshark
-  - Automation scripting in Python
+
+systems & security:
+  - Linux administration
+  - Cybersecurity basics — network security & forensics
+  - OSINT — reconnaissance & open-source intelligence
+
+coding:
+  - Python automation
   - Web development with Symfony
 
-open_to:
+open to:
   - Apprenticeships & internships in networking / cybersecurity
 ```
 
 <br>
 
-## Contact
+## 📫 Get in touch
 
 <div align="center">
 
