@@ -2,81 +2,78 @@
 
 # Nathanael Berthod
 
-**Networking & Telecommunications Student**  
-<sub>Networking · Systems · Web development</sub>
+**Networking & Telecommunications Student**
 
-![Profile views](https://komarev.com/ghpvc/?username=Nathanael-Berthod&label=Profile%20views&color=00875f&style=flat-square)
+`Network infrastructure` &nbsp;·&nbsp; `Cybersecurity` &nbsp;·&nbsp; `OSINT` &nbsp;·&nbsp; `Web development`
+
+![Profile views](https://komarev.com/ghpvc/?username=Nathanael-Berthod&label=Profile%20views&color=06402b&style=flat-square)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Nathanael-Berthod?style=flat-square&color=00875f&labelColor=161b22)
+![Followers](https://img.shields.io/github/followers/Nathanael-Berthod?style=flat-square&color=06402b&labelColor=0d1117)
 
 </div>
 
----
+<br>
 
 ## About
 
 Networking & Telecommunications student interested in network infrastructure, system
-administration and web development. I like understanding how systems work — from the network
-layer up to the interface. Serious about my work, curious by nature.
+administration, cybersecurity, OSINT and web development. I like understanding how systems
+work — and how they break. Serious about my work, curious by nature.
 
----
+<br>
 
-## Skills
+## Tech Stack
 
-**Networks & systems**
+**Networks & Systems**
 
-![Cisco](https://img.shields.io/badge/Cisco-1a1a1a?style=for-the-badge&logo=cisco&logoColor=00875f)
-![Asterisk](https://img.shields.io/badge/VoIP%20/%20Asterisk-1a1a1a?style=for-the-badge&logo=asterisk&logoColor=00875f)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=00875f)
-![Wireshark](https://img.shields.io/badge/Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=00875f)
+<p>
+  <img src="https://img.shields.io/badge/Cisco-06402b?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/VoIP%20·%20Asterisk-06402b?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk">
+  <img src="https://img.shields.io/badge/Linux-06402b?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Wireshark-06402b?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</p>
 
 **Development**
 
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=00875f)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=00875f)
-![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=00875f)
-![Symfony](https://img.shields.io/badge/Symfony-1a1a1a?style=for-the-badge&logo=symfony&logoColor=00875f)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=00875f)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=00875f)
+<p>
+  <img src="https://img.shields.io/badge/Python-06402b?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-06402b?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-06402b?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Symfony-06402b?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/HTML5-06402b?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-06402b?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
----
+<br>
 
 ## Currently
 
 ```yaml
 learning:
-  - Network administration (routing, switching)
-  - VoIP telephony with Asterisk
-  - Linux systems and related services
+  - Network administration — routing & switching
+  - IP telephony with Asterisk
+  - Linux systems and network services
+  - Cybersecurity fundamentals — network security & forensics
+  - OSINT — reconnaissance and open-source intelligence
 
-practice:
-  - Network traffic analysis (Wireshark)
-  - Automation scripts in Python
-  - Web development (Symfony, frontend)
+practicing:
+  - Traffic analysis with Wireshark
+  - Automation scripting in Python
+  - Web development with Symfony
 
 open_to:
-  - Apprenticeships and internships in networking / systems
+  - Apprenticeships & internships in networking / cybersecurity
 ```
 
----
-
-## Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nathanael-Berthod&show_icons=true&hide_border=true&title_color=00875f&icon_color=00875f&text_color=8b949e&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanael-Berthod&layout=compact&hide_border=true&title_color=00875f&text_color=8b949e&bg_color=0d1117)
-
-</div>
-
----
+<br>
 
 ## Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/berthod.nathanael@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00875f)](mailto:berthod.nathanael@gmail.com)
-[![Instagram](https://img.shields.io/badge/@nath.btd-1a1a1a?style=for-the-badge&logo=instagram&logoColor=00875f)](https://instagram.com/nath.btd)
-
-</div>
+<p>
+  <a href="mailto:berthod.nathanael@gmail.com">
+    <img src="https://img.shields.io/badge/berthod.nathanael@gmail.com-06402b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/nath.btd">
+    <img src="https://img.shields.io/badge/@nath.btd-06402b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
