@@ -47,9 +47,3 @@ Networking & Telecommunications student interested in network infrastructure, sy
   <a href="mailto:berthod.nathanael@gmail.com"><img src="https://img.shields.io/badge/Gmail-06402b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/nath.btd" target="blank"><img src="https://img.shields.io/badge/Instagram-06402b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanael-berthod&show_icons=true&locale=en&layout=compact&title_color=06402b&icon_color=06402b" alt="nathanael-berthod" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanael-berthod&show_icons=true&locale=en&title_color=06402b&icon_color=06402b" alt="nathanael-berthod" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanael-berthod&ring=06402b&fire=06402b&currStreakLabel=06402b" alt="nathanael-berthod" /></p>
